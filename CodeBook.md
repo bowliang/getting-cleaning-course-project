@@ -31,20 +31,20 @@ The measurements are classified in two domains:
 
 ### Time domain
 The descriptions for the variable names in time domain are given:
-Average and STD of body acceleration in X, Y, Z direction (`timeDomainBodyAccelerometerMeanX`,`timeBodyAccelerometermeanY`,`timeBodyAccelerometermeanZ`,`timeBodyAccelerometerstdX`,`timeBodyAccelerometerstdY`,`timeBodyAccelerometerstdZ`)
-Average and STD of gravity acceleration in X, Y, Z direction (`timeGravityAccelerometermeanX`,`timeGravityAccelerometermeanY`,`timeGravityAccelerometermeanZ`,`timeGravityAccelerometerstdX`,`timeGravityAccelerometerstdY`,`timeGravityAccelerometerstdZ`)
-Average and STD of body acceleration jerk in X, Y, Z direction (`timeBodyAccelerometerJerkmeanX`,`timeBodyAccelerometerJerkmeanY`,`timeBodyAccelerometerJerkmeanZ`,`timeBodyAccelerometerJerkstdX`,`timeBodyAccelerometerJerkstdY`,`timeBodyAccelerometerJerkstdZ`)
-Average and STD of body angular velocity in X, Y, Z direction (`timeBodyGyroscopemeanX`,`timeBodyGyroscopemeanY`,`timeBodyGyroscopemeanZ`,`timeBodyGyroscopestdX`,`timeBodyGyroscopestdY`,`timeBodyGyroscopestdZ`)
-Average and STD of body angular velocity jerk in X, Y, Z direction (`timeBodyGyroscopeJerkmeanX`,`timeBodyGyroscopeJerkmeanY`,`timeBodyGyroscopeJerkmeanZ`,`timeBodyGyroscopeJerkstdX`,`timeBodyGyroscopeJerkstdY`,`timeBodyGyroscopeJerkstdZ`)
-Average and STD of body acceleration (`timeBodyAccelerometerMagnitudemean`,`timeBodyAccelerometerMagnitudestd`)
-Average and STD of gravity acceleration (`timeGravityAccelerometerMagnitudemean`,`timeGravityAccelerometerMagnitudestd`)
-Average and STD of body acceleration jerk (`timeBodyAccelerometerJerkMagnitudemean`,`timeBodyAccelerometerJerkMagnitudestd`)
-Average and STD of body angular velocity (`timeBodyGyroscopeMagnitudemean`,`timeBodyGyroscopeMagnitudestd`)
-Average and STD of body angular velocity jerk (`timeBodyGyroscopeJerkMagnitudemean`,`timeBodyGyroscopeJerkMagnitudestd`)
+-Average and STD of body acceleration in X, Y, Z direction (`timeDomainBodyAccelerometerMeanX`,`timeBodyAccelerometermeanY`,`timeBodyAccelerometermeanZ`,`timeBodyAccelerometerstdX`,`timeBodyAccelerometerstdY`,`timeBodyAccelerometerstdZ`)
+-Average and STD of gravity acceleration in X, Y, Z direction (`timeGravityAccelerometermeanX`,`timeGravityAccelerometermeanY`,`timeGravityAccelerometermeanZ`,`timeGravityAccelerometerstdX`,`timeGravityAccelerometerstdY`,`timeGravityAccelerometerstdZ`)
+-Average and STD of body acceleration jerk in X, Y, Z direction (`timeBodyAccelerometerJerkmeanX`,`timeBodyAccelerometerJerkmeanY`,`timeBodyAccelerometerJerkmeanZ`,`timeBodyAccelerometerJerkstdX`,`timeBodyAccelerometerJerkstdY`,`timeBodyAccelerometerJerkstdZ`)
+-Average and STD of body angular velocity in X, Y, Z direction (`timeBodyGyroscopemeanX`,`timeBodyGyroscopemeanY`,`timeBodyGyroscopemeanZ`,`timeBodyGyroscopestdX`,`timeBodyGyroscopestdY`,`timeBodyGyroscopestdZ`)
+-Average and STD of body angular velocity jerk in X, Y, Z direction (`timeBodyGyroscopeJerkmeanX`,`timeBodyGyroscopeJerkmeanY`,`timeBodyGyroscopeJerkmeanZ`,`timeBodyGyroscopeJerkstdX`,`timeBodyGyroscopeJerkstdY`,`timeBodyGyroscopeJerkstdZ`)
+-Average and STD of body acceleration (`timeBodyAccelerometerMagnitudemean`,`timeBodyAccelerometerMagnitudestd`)
+-Average and STD of gravity acceleration (`timeGravityAccelerometerMagnitudemean`,`timeGravityAccelerometerMagnitudestd`)
+-Average and STD of body acceleration jerk (`timeBodyAccelerometerJerkMagnitudemean`,`timeBodyAccelerometerJerkMagnitudestd`)
+-Average and STD of body angular velocity (`timeBodyGyroscopeMagnitudemean`,`timeBodyGyroscopeMagnitudestd`)
+-Average and STD of body angular velocity jerk (`timeBodyGyroscopeJerkMagnitudemean`,`timeBodyGyroscopeJerkMagnitudestd`)
 
 ### Frequency domain
 The variable names in frequency domain are given:
-- `frequencyBodyAccelerometermeanX`,`frequencyBodyAccelerometermeanY`,`frequencyBodyAccelerometermeanZ`,`frequencyBodyAccelerometerstdX`,`frequencyBodyAccelerometerstdY`,`frequencyBodyAccelerometerstdZ`
+-`frequencyBodyAccelerometermeanX`,`frequencyBodyAccelerometermeanY`,`frequencyBodyAccelerometermeanZ`,`frequencyBodyAccelerometerstdX`,`frequencyBodyAccelerometerstdY`,`frequencyBodyAccelerometerstdZ`
 - `frequencyBodyAccelerometermeanFreqX`,`frequencyBodyAccelerometermeanFreqY`,`frequencyBodyAccelerometermeanFreqZ`
 - `frequencyBodyAccelerometerJerkmeanX`,`frequencyBodyAccelerometerJerkmeanY`,`frequencyBodyAccelerometerJerkmeanZ`
 - `frequencyBodyAccelerometerJerkstdX`,`frequencyBodyAccelerometerJerkstdY`,`frequencyBodyAccelerometerJerkstdZ`
